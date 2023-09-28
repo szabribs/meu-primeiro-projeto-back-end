@@ -1,5 +1,5 @@
 const express = require("express")
-const router =  express.Router() /*configuação de rota*/
+const router =  express.Router()
 
 const app = express()
 const porta = 3333
